@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<SimBase.Document Type="Launch" version="1,0">
+  <Descr>Launch</Descr>
+  <Filename>EXE.xml</Filename>
+  <Disabled>False</Disabled>
+  <Launch.ManualLoad>False</Launch.ManualLoad>
+  <Launch.Addon>
+    <Name>FenixA320</Name>
+    <Disabled>False</Disabled>
+    <Path>D:\MSFlightSimulator\FenixSim A320\deps\FenixBootstrapper.exe</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Name>simlink</Name>
+    <Path>D:\MSFlightSimulator\Community\hdw-externaltools-simlink\simlink.exe</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Name>FSUIPC7</Name>
+    <Path>D:\MSFlightSimulator\FSUIPC7\FSUIPC7.exe</Path>
+    <CommandLine>-auto</CommandLine>
+    <NewConsole>False</NewConsole>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Couatl</Name>
+    <Disabled>False</Disabled>
+    <Path>C:\Program Files (x86)\Addon Manager\couatl64\couatl64_boot.exe</Path>
+  </Launch.Addon>
+</SimBase.Document>
