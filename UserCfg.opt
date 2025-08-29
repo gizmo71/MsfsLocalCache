@@ -1,0 +1,264 @@
+Version 66
+{Video
+	Adapter "NVIDIA GeForce RTX 3060"
+	Monitor 0
+	Windowed 1
+	FullscreenBorderless 1
+	WindowActive 0
+	Resolution 1920 993
+	FullScreenResolution 1920 1080
+	PosX 0
+	PosY 0
+	AntiAliasing TAA
+	DLSSMode AUTO
+	Reflex OFF
+	FSRMode BALANCED
+	FrameGeneration FSRFG
+	NBFramesToGenerate 1
+	PrimaryScaling 1.000000
+	SecondaryScaling 1.000000
+	SharpenAmount 0.500000
+	ExposureBias 0.000000
+	DynamicSettings 1
+	TargetFrameRate 30
+	ReprojectionMode 0
+	EnvironmentBlendMode 0
+	FoveatedRendering 0
+	FoveatedRenderingScale 0.500000
+	WorldScalePercentVR 100
+	AntiAliasingVR TAA
+	DLSSModeVR AUTO
+	ReflexVR ON
+	FSRModeVR PERFORMANCE
+	FrameGenerationVR NONE
+	NBFramesToGenerateVR 1
+	PrimaryScalingVR 0.800000
+	SecondaryScalingVR 1.000000
+	SharpenAmountVR 1.000000
+	ExposureBiasVR 0.000000
+	DynamicSettingsVR 1
+	TargetFrameRateVR 60
+	VSync 0
+	HDR10 0
+	IntelMessageBoxDisplayed 0
+	CurrentGPUDriverVersion 0.0.0
+	DoNotShowGpuDriverRequirementPopup 0
+	FrameLimiter 0
+}
+{Graphics
+	Version 2.1.0
+	Preset Custom
+	{Texture
+		MaxAnisotropy 2
+		Quality 1
+	}
+	{Terrain
+		LoDFactor 1.250000
+		POMMaxDist 15.000000
+		POMSubsplitsMaxDist 5.000000
+	}
+	{OffscreenTerrainPreCaching
+		Enabled 1
+		Quality 2
+	}
+	{ObjectsLoD
+		LoDFactor 1.100000
+	}
+	{Shadows
+		MaxSliceCount 4
+		Size 1024
+		DLightContributionCullingThresholdS0 0.100000
+		DLightContributionCullingThresholdS1 0.100000
+		DLightContributionCullingThresholdS2 0.100000
+		DLightContributionCullingThresholdS3 0.100000
+		OmniContributionCullingThreshold 0.030000
+	}
+	{HeightFieldShadows
+		Enabled 1
+		Size 128
+	}
+	{ContactShadows
+		Enabled 1
+		Quality 1
+	}
+	{Water
+		FFTSize 128
+	}
+	{VolumetricClouds
+		Enabled 1
+		Quality 3
+	}
+	{VolumetricLights
+		Enabled 1
+		Quality 1
+	}
+	{RaytracedShadows
+		Enabled 0
+	}
+	{ReflectionProbe
+		Size 192
+	}
+	{SSR
+		Enabled 1
+		HalfRes 0
+		Quality 2
+	}
+	{WindShield
+		Quality 1
+	}
+	{SSAO
+		Enabled 1
+		FullRes 0
+		Quality 1
+	}
+	{DisplacementMapping
+		Enabled 0
+	}
+	{DOF
+		Enabled 0
+		Quality 0
+	}
+	{MotionBlur
+		Enabled 0
+		Quality 0
+	}
+	{Buildings
+		Quality 0
+	}
+	{Procedural
+		TreesQuality 0
+		PlantsQuality 0
+		RocksQuality 0
+		GrassQuality 0
+	}
+	{Characters
+		Quantity 1
+		Quality 0
+		Density 1
+	}
+	{Traffic
+		AircraftTrafficQuantity -1
+		AircraftTrafficVariety 1
+		AirportsServicesQuantity 1
+		AirportsServicesVariety 1
+		ParkedAircraftQuantity -1
+		ParkedAircraftVariety 1
+		RoadQuality 1
+		SeaQuality 1
+	}
+	{Fauna
+		Quantity 1
+	}
+	{GlassCockpitsRefreshRate
+		Quality 2
+	}
+}
+{GraphicsVR
+	Version 2.1.0
+	Preset VRMedium
+	{Texture
+		MaxAnisotropy 4
+		Quality 2
+	}
+	{Terrain
+		LoDFactor 0.500000
+		POMMaxDist 20.000000
+		POMSubsplitsMaxDist 7.500000
+	}
+	{OffscreenTerrainPreCaching
+		Enabled 1
+		Quality 0
+	}
+	{ObjectsLoD
+		LoDFactor 0.500000
+	}
+	{Shadows
+		MaxSliceCount 4
+		Size 1024
+		DLightContributionCullingThresholdS0 0.100000
+		DLightContributionCullingThresholdS1 0.100000
+		DLightContributionCullingThresholdS2 0.100000
+		DLightContributionCullingThresholdS3 0.100000
+		OmniContributionCullingThreshold 0.030000
+	}
+	{HeightFieldShadows
+		Enabled 1
+		Size 256
+	}
+	{ContactShadows
+		Enabled 1
+		Quality 1
+	}
+	{Water
+		FFTSize 256
+	}
+	{VolumetricClouds
+		Enabled 1
+		Quality 1
+	}
+	{VolumetricLights
+		Enabled 1
+		Quality 0
+	}
+	{RaytracedShadows
+		Enabled 0
+	}
+	{ReflectionProbe
+		Size 192
+	}
+	{SSR
+		Enabled 1
+		HalfRes 0
+		Quality 0
+	}
+	{WindShield
+		Quality 2
+	}
+	{SSAO
+		Enabled 1
+		FullRes 0
+		Quality 0
+	}
+	{DisplacementMapping
+		Enabled 0
+	}
+	{DOF
+		Enabled 0
+		Quality 1
+	}
+	{MotionBlur
+		Enabled 0
+		Quality 1
+	}
+	{Buildings
+		Quality 0
+	}
+	{Procedural
+		TreesQuality 0
+		PlantsQuality 0
+		RocksQuality 0
+		GrassQuality 0
+	}
+	{Characters
+		Quantity -1
+		Quality 0
+		Density 0
+	}
+	{Traffic
+		AircraftTrafficQuantity -1
+		AircraftTrafficVariety 0
+		AirportsServicesQuantity -1
+		AirportsServicesVariety 0
+		ParkedAircraftQuantity -1
+		ParkedAircraftVariety 0
+		RoadQuality -1
+		SeaQuality -1
+	}
+	{Fauna
+		Quantity -1
+	}
+	{GlassCockpitsRefreshRate
+		Quality 0
+	}
+}
+InstalledPackagesPath "C:\Users\micro\AppData\Local\Packages\Microsoft.Limitless_8wekyb3d8bbwe\LocalCache\Packages"
