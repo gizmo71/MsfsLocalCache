@@ -1,5 +1,5 @@
 <Packages>
-	<Package name="communityfs20-3sc0b4r-airport-wibb-pekanbaru" active="Activated"/>
+	<Package name="communityfs20-3sc0b4r-airport-wibb-pekanbaru" active="Activated" priority="-911"/>
 	<Package name="communityfs20-a320-fbw-livery-cca-new_qaxeq" active="Activated"/>
 	<Package name="communityfs20-a320-fbw-livery-csz" active="Activated"/>
 	<Package name="communityfs20-a320-livery-airnewzealand_orienteps" active="Activated"/>
@@ -260,6 +260,7 @@
 	<Package name="fs24-asobo-discoverylegacy" active="Activated"/>
 	<Package name="fs24-asobo-dynamic-material-lib" active="Activated"/>
 	<Package name="fs24-asobo-environment-cameras" active="Activated"/>
+	<Package name="fs24-asobo-event-rescuechallenge" active="Activated"/>
 	<Package name="fs24-asobo-eventtriggers" active="Activated"/>
 	<Package name="fs24-asobo-fa18e-character" active="Activated"/>
 	<Package name="fs24-asobo-facial-animations" active="Activated"/>
@@ -413,16 +414,9 @@
 	<Package name="fs24-asobo-passiveaircraft-ejet190family" active="Activated"/>
 	<Package name="fs24-asobo-passiveaircraft-erjfamily" active="Activated"/>
 	<Package name="fs24-asobo-passiveaircraft-fa18" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-airliner-2eng" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-airliner-4eng" active="Activated"/>
 	<Package name="fs24-asobo-passiveaircraft-generic-glider" active="Activated"/>
 	<Package name="fs24-asobo-passiveaircraft-generic-hab" active="Activated"/>
 	<Package name="fs24-asobo-passiveaircraft-generic-helicopter" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-jet-2eng" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-piston-1eng" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-piston-2eng" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-turbo-1eng" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-turbo-2eng" active="Activated"/>
 	<Package name="fs24-asobo-passiveaircraft-husky" active="Activated"/>
 	<Package name="fs24-asobo-passiveaircraft-kingairfamily" active="Activated"/>
 	<Package name="fs24-asobo-passiveaircraft-kodiak" active="Activated"/>
@@ -615,6 +609,7 @@
 	<Package name="communityfs20-engm-oslo" active="Activated"/>
 	<Package name="fs20-esd-modellib-eolib" active="SystemDisabled"/>
 	<Package name="fs24-esd-modellib-eolib" active="Activated"/>
+	<Package name="communityfs20-euroscene-airport-lepa-palma-de-mallorca" active="Activated" priority="-911"/>
 	<Package name="communityfs20-fbw a380x - qatar airways pack valexyo-hues 4k" active="Activated"/>
 	<Package name="communityfs20-fbw_a320neo_ba better world g-ttna" active="Activated"/>
 	<Package name="communityfs20-fbw_a320neo_batikair_pk-bdf" active="Activated"/>
@@ -626,8 +621,6 @@
 	<Package name="communityfs20-fbw_a320neo_hbaye" active="Activated"/>
 	<Package name="communityfs20-fbw_a320neo_ja20ip" active="Activated"/>
 	<Package name="fs24-fcr-embedded" active="Activated"/>
-	<Package name="communityfs20-fenix a320 iae - virgin australia - vh-vkq [4k]" active="Activated"/>
-	<Package name="communityfs20-fenix a320 jetsmart lv-kja" active="Activated"/>
 	<Package name="communityfs20-flybywire a380 - qantas - vh-oqh" active="Activated"/>
 	<Package name="communityfs20-flybywire-a320neo-wizzair_pack" active="Activated"/>
 	<Package name="communityfs20-flybywire-aircraft-a320-neo" active="Activated"/>
@@ -641,57 +634,13 @@
 	<Package name="communityfs20-flybywire_a320neo_easyjet_europe" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_fgneo" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_spirit" active="Activated"/>
-	<Package name="communityfs20-fnx a320sl batik air (pk-bla &amp; pk-blb)" active="Activated"/>
-	<Package name="communityfs20-fnx a320sl batik air (pk-laz &amp; pk-lut)" active="Activated"/>
-	<Package name="communityfs20-fnx a320sl batik air (pk-luq &amp; pk-lzh)" active="Activated"/>
 	<Package name="communityfs24-fnx-321-vwzz-a6-wab" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-319-321" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-319-air berlin d-abgd" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-319-air india_vt-scv" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-319-liveries" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-319-liveries-sab-oossa-4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-319-liveries-vcp-corp-4k" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-apj_pack" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-apj_pack_1_4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-btkpkbko" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-btkpkbkq" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-cszb6286-cfm" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-cszb6833-iae" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-dcd-jjpja01jj-4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-gooaa-iae" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-gooar-cfm" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-liveries" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-liveries-alpaca-4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-liveries-fca-g-ooar-4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-liveries-iss-eiezs-4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-liveries-nly-oe-leh-4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-liveries-sab-oosnf-4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-sjv" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-tcwootcr" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-tcxgdhrg" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-titan-pack" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-v2-alaska_pride" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-320-v2-vir_am_n621va" active="Activated"/>
 	<Package name="communityfs20-fnx-aircraft-320_cvt_" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-321-airindia_vt-ppm-cfm" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-321-cfm-titan-cargo-pax" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-321-ein_ei-cpf_cfm" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-321-liveries" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-321-liveries-vcp-corp-4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-321-thomas cook g-tcdb-cfm" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-321-thomas-cook-gdhjh-cfm_4k" active="Activated"/>
-	<Package name="communityfs20-fnx-aircraft-321-waz-a6-waf-iz" active="Activated"/>
-	<Package name="communityfs20-fnx_319_cfm_frontier (jack) n940fr" active="Activated"/>
-	<Package name="communityfs20-fnx_319_cfm_vrd pack" active="Activated"/>
-	<Package name="communityfs20-fnx_320_cfm_aicvtedc" active="Activated"/>
-	<Package name="communityfs20-fnx_320_cfm_lda pack 3" active="Activated"/>
-	<Package name="communityfs20-fnx_320_cfm_sl_aic_vtexc" active="Activated"/>
-	<Package name="communityfs20-fnx_320_cfm_sl_aic_vtexe" active="Activated"/>
-	<Package name="communityfs20-fnx_a320_cfm_air india express_vt-ixr" active="Activated"/>
-	<Package name="communityfs20-fnx_a320_cfm_indigo-vt-iww(8k)" active="Activated"/>
-	<Package name="communityfs20-fnx_a320_iae_indigo-vtihz (8k)" active="Activated"/>
-	<Package name="communityfs20-fnx_a320_iae_sl_igo_vtiax" active="Activated"/>
 	<Package name="fs24-fs-activities-kh" active="Activated"/>
 	<Package name="fs24-fs-base" active="Activated"/>
 	<Package name="fs24-fs-base-achievements" active="Activated"/>
@@ -699,7 +648,6 @@
 	<Package name="fs24-fs-base-aircraft-common" active="Activated"/>
 	<Package name="fs24-fs-base-aircraft-icao" active="Activated"/>
 	<Package name="fs24-fs-base-atc" active="Activated"/>
-	<Package name="fs24-fs-base-cgl-minimal" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-australia-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-canada-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-city01-tin" active="Activated"/>
@@ -713,6 +661,7 @@
 	<Package name="fs24-fs-base-coverage-map-city09-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-city10-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-city11-tin" active="Activated"/>
+	<Package name="fs24-fs-base-coverage-map-city12-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-east-europe-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-france-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-germany-tin" active="Activated"/>
@@ -823,13 +772,19 @@
 	<Package name="fs24-microsoft-aircraft-a320neo" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a321" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a321-aer-lingus-lrg" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a321-ana-ja139a" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a321-ezy-g-uzma" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a321-fft-n656fr" active="Activated"/>
 	<Package name="communityfs20-microsoft-aircraft-a321-igo-vt-iby" active="Activated"/>
 	<Package name="communityfs20-microsoft-aircraft-a321-klm-ph-axb" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a330" active="Activated"/>
-	<Package name="communityfs20-microsoft-aircraft-a330-200-mmu pack" active="Activated"/>
-	<Package name="communityfs20-microsoft-aircraft-a330-300-sas" active="Activated"/>
-	<Package name="communityfs20-microsoft-aircraft-a330-300-virgin-vine" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-200-dal" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-200-mmu pack" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-200-qtr-a7-acm" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-300-delta-823" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-300-ge-qtr" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-300-sas" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-300-virgin-vine" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a400m" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-aircrane" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-archer" active="Activated"/>
@@ -852,6 +807,7 @@
 	<Package name="fs24-microsoft-aircraft-dhc2" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-dhc6" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-dracox" active="Activated"/>
+	<Package name="fs24-microsoft-aircraft-ec135" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-edge540" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-edge540v2" active="Activated"/>
 	<Package name="fs20-microsoft-aircraft-ford-trimotor" active="UserDisabled"/>
@@ -921,7 +877,6 @@
 	<Package name="fs24-microsoft-airport-kffa-firstflight" active="Activated"/>
 	<Package name="fs24-microsoft-airport-kfhr-friday-harbor" active="Activated"/>
 	<Package name="fs24-microsoft-airport-kgcn-grandcanyon" active="Activated"/>
-	<Package name="fs20-microsoft-airport-kjrb-ny-downtown-manhattan-heliport" active="Activated"/>
 	<Package name="fs24-microsoft-airport-krow-roswell" active="Activated"/>
 	<Package name="fs24-microsoft-airport-ktvl-lake-tahoe" active="Activated"/>
 	<Package name="fs24-microsoft-airport-ldri-rijeka" active="Activated"/>
@@ -974,6 +929,7 @@
 	<Package name="fs24-microsoft-airport-rjck-kushiro" active="Activated"/>
 	<Package name="fs24-microsoft-airport-rjfu-nagasaki" active="Activated"/>
 	<Package name="fs24-microsoft-airport-rjth-hachijojima" active="Activated"/>
+	<Package name="fs24-microsoft-airport-rjti-tokyo-heliport" active="Activated"/>
 	<Package name="fs24-microsoft-airport-sbfi-cataratas" active="Activated"/>
 	<Package name="fs24-microsoft-airport-sbfn-fernandodenoronha" active="Activated"/>
 	<Package name="fs24-microsoft-airport-sbrj-santos-dumont" active="Activated"/>
@@ -1071,9 +1027,8 @@
 	<Package name="fs24-microsoft-flight-tutorials-ifrnav-turns" active="Activated"/>
 	<Package name="fs24-microsoft-flight-tutorials-ifrnav-vor" active="Activated"/>
 	<Package name="fs20-microsoft-france-benelux-point-of-interest" active="Activated"/>
-	<Package name="fs20-microsoft-franckfurt-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-germany-austria-switzerland-point-of-interest" active="Activated"/>
-	<Package name="fs20-microsoft-germany-point-of-interest" active="Activated"/>
+	<Package name="fs24-microsoft-germany-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-iberia-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-italy-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-japan-point-of-interest" active="Activated"/>
@@ -1088,7 +1043,6 @@
 	<Package name="fs20-microsoft-landingchallenge-dach2c-lspm" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-eddl-dusseldorf-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-edxh-duene-fs24" active="Activated"/>
-	<Package name="fs20-microsoft-landingchallenge-egpr-barra" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-egss-stansted-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-eick-cork-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-enra-rossvoll-fs24" active="Activated"/>
@@ -1153,9 +1107,7 @@
 	<Package name="fs24-microsoft-scenery-gliders-worldwide-part1" active="Activated"/>
 	<Package name="fs24-microsoft-scenery-gliders-worldwide-part2" active="Activated"/>
 	<Package name="fs24-microsoft-scenery-gliders-worldwide-part3" active="Activated"/>
-	<Package name="fs20-microsoft-scenery-grand-canyon-pois" active="Activated"/>
 	<Package name="fs24-microsoft-scenery-helipad-worldwide" active="Activated"/>
-	<Package name="fs20-microsoft-scenery-lasvegas" active="Activated"/>
 	<Package name="fs20-microsoft-scenery-oilrig-worldwide" active="Activated"/>
 	<Package name="fs24-microsoft-ships-car-carrier-1" active="Activated"/>
 	<Package name="fs24-microsoft-ships-container-1" active="Activated"/>
@@ -1233,7 +1185,6 @@
 	<Package name="fs24-microsoft-simobjects-animals-tiger" active="Activated"/>
 	<Package name="fs24-microsoft-simobjects-animals-vulpes" active="Activated"/>
 	<Package name="fs24-microsoft-simobjects-animals-warthogs" active="Activated"/>
-	<Package name="fs24-microsoft-simobjects-animals-wildebeest" active="Activated"/>
 	<Package name="fs24-microsoft-simobjects-animals-wolf" active="Activated"/>
 	<Package name="fs24-microsoft-simobjects-animals-zebra" active="Activated"/>
 	<Package name="fs20-microsoft-simobjects-vehicles" active="Activated"/>
@@ -1253,7 +1204,7 @@
 	<Package name="communityfs20-raimbotrax_a380_british_airways_gxlel_dirty" active="Activated"/>
 	<Package name="communityfs20-rocket_a380_lufthansa_daiml4k" active="Activated"/>
 	<Package name="communityfs20-rs_designs-a339-lion.pk-lei" active="Activated"/>
-	<Package name="communityfs24-sayintentions-efb" active="Activated"/>
+	<Package name="communityfs20-sayintentions-efb" active="Activated"/>
 	<Package name="communityfs20-sayintentions-fly-in-library" active="Activated"/>
 	<Package name="communityfs20-sayintentions-simobjects-optional" active="Activated"/>
 	<Package name="communityfs20-sayintentions-vr-toolbar-plugin" active="Activated"/>
@@ -1266,6 +1217,7 @@
 	<Package name="fs20-workingtitle-instruments-b737-max-8" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-b747-8i" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-b787-10" active="Activated"/>
+	<Package name="fs20-workingtitle-instruments-epic2" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-epic2-v2" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-g1000" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-g1000-v2" active="Activated"/>
