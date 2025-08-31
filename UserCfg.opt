@@ -2,7 +2,7 @@ Version 66
 {Video
 	Adapter "NVIDIA GeForce RTX 3060"
 	Monitor 0
-	Windowed 1
+	Windowed 0
 	FullscreenBorderless 1
 	WindowActive 0
 	Resolution 1920 993
