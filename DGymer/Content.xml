@@ -1,5 +1,5 @@
 <Packages>
-	<Package name="communityfs20-3sc0b4r-airport-wibb-pekanbaru" active="Activated" priority="-911"/>
+	<Package name="communityfs20-3sc0b4r-airport-wibb-pekanbaru" active="Activated" priority="101"/>
 	<Package name="communityfs20-a320-fbw-livery-cca-new_qaxeq" active="Activated"/>
 	<Package name="communityfs20-a320-fbw-livery-csz" active="Activated"/>
 	<Package name="communityfs20-a320-livery-airnewzealand_orienteps" active="Activated"/>
@@ -1346,6 +1346,7 @@
 	<Package name="communityfs20-kritikv-airport-vaah-ahmedabad" active="Activated"/>
 	<Package name="communityfs20-kritikv-objectsvaah" active="Activated"/>
 	<Package name="communityfs20-ktus_tucson" active="Activated"/>
+	<Package name="communityfs20-kvsceneries-airport-vaah-ahmedabad" active="Activated"/>
 	<Package name="communityfs20-leal-alicante" active="Activated"/>
 	<Package name="communityfs20-livery-a20n-airindia" active="Activated"/>
 	<Package name="communityfs20-livery-fbw-a320-ana-ja211a" active="Activated"/>
@@ -1392,6 +1393,7 @@
 	<Package name="communityfs24-microsoft-aircraft-a330-200-qtr-a7-acm" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-300-delta-823" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-300-ge-qtr" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-300-p2f-rr-dhl" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-300-sas" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-300-virgin-vine" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a400m" active="Activated"/>
