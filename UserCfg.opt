@@ -2,7 +2,7 @@ Version 66
 {Video
 	Adapter "NVIDIA GeForce RTX 3060"
 	Monitor 0
-	Windowed 0
+	Windowed 1
 	FullscreenBorderless 1
 	WindowActive 0
 	Resolution 1920 993
@@ -53,7 +53,7 @@ Version 66
 		Quality 1
 	}
 	{Terrain
-		LoDFactor 1.250000
+		LoDFactor 1.350000
 		POMMaxDist 15.000000
 		POMSubsplitsMaxDist 5.000000
 	}
@@ -123,7 +123,7 @@ Version 66
 		Quality 0
 	}
 	{Buildings
-		Quality 0
+		Quality 1
 	}
 	{Procedural
 		TreesQuality 0
