@@ -249,6 +249,7 @@
 	<Package name="fs24-asobo-challenges-rallyrace-s2-setonaikai" active="Activated"/>
 	<Package name="fs24-asobo-challenges-rallyrace-ui" active="Activated"/>
 	<Package name="fs24-asobo-challenges-redbull-base" active="Activated"/>
+	<Package name="fs24-asobo-credits-override" active="Activated"/>
 	<Package name="fs24-asobo-discovery" active="Activated"/>
 	<Package name="fs24-asobo-discovery-chubusangaku" active="Activated"/>
 	<Package name="fs24-asobo-discovery-copenhagen" active="Activated"/>
@@ -289,8 +290,11 @@
 	<Package name="fs24-asobo-landingchallenge-eghi-southampton" active="Activated"/>
 	<Package name="fs24-asobo-landingchallenge-eidl-donegal" active="Activated"/>
 	<Package name="fs20-asobo-landingchallenge-ekrn-bornholm-fs24" active="Activated"/>
+	<Package name="fs24-asobo-landingchallenge-ekrn-bornholm-fs24" active="Activated"/>
 	<Package name="fs20-asobo-landingchallenge-ensb-svalbard-fs24" active="Activated"/>
+	<Package name="fs24-asobo-landingchallenge-ensb-svalbard-fs24" active="Activated"/>
 	<Package name="fs20-asobo-landingchallenge-essa-arlanda-fs24" active="Activated"/>
+	<Package name="fs24-asobo-landingchallenge-essa-arlanda-fs24" active="Activated"/>
 	<Package name="fs24-asobo-landingchallenge-kase-aspen" active="Activated"/>
 	<Package name="fs24-asobo-landingchallenge-keb-nanwalek" active="Activated"/>
 	<Package name="fs24-asobo-landingchallenge-kjac-jackson" active="Activated"/>
@@ -469,6 +473,7 @@
 	<Package name="fs24-asobo-proceduralgeneration-character-journalist" active="Activated"/>
 	<Package name="fs24-asobo-proceduralgeneration-character-medic" active="Activated"/>
 	<Package name="fs24-asobo-proceduralgeneration-character-pilot" active="Activated"/>
+	<Package name="fs24-asobo-proceduralgeneration-character-redbull" active="Activated"/>
 	<Package name="fs24-asobo-proceduralgeneration-character-skydiver" active="Activated"/>
 	<Package name="fs24-asobo-proceduralgeneration-character-swimmer" active="Activated"/>
 	<Package name="fs24-asobo-proceduralgeneration-character-vip" active="Activated"/>
@@ -487,8 +492,10 @@
 	<Package name="fs24-asobo-simobjects-landmarks" active="Activated"/>
 	<Package name="fs24-asobo-simobjects-liquids" active="Activated"/>
 	<Package name="fs24-asobo-simobjects-misc" active="Activated"/>
+	<Package name="fs24-asobo-simobjects-redbull" active="Activated"/>
 	<Package name="fs24-asobo-simobjects-vehicles" active="Activated"/>
 	<Package name="fs24-asobo-simpropcontainer" active="Activated"/>
+	<Package name="fs24-asobo-spotlight-widgets" active="Activated"/>
 	<Package name="fs24-asobo-surface-artificial-material-lib" active="Activated"/>
 	<Package name="fs24-asobo-surface-details-material-lib" active="Activated"/>
 	<Package name="fs24-asobo-surface-natural-material-lib" active="Activated"/>
@@ -615,623 +622,24 @@
 	<Package name="fs24-bf-pgg" active="Activated"/>
 	<Package name="communityfs20-bggh - nuuk airport" active="Activated"/>
 	<Package name="communityfs20-bgr1664-airport-lfll" active="Activated"/>
+	<Package name="communityfs24-captain simon liveries titan airways santa lapand a321 g-powu 2024" active="Activated"/>
+	<Package name="communityfs24-cca3506-zsya-remake" active="Activated"/>
 	<Package name="communityfs20-ces2411-zugy" active="Activated"/>
+	<Package name="fs24-climax-airrace-redbull-abu-dhabi" active="Activated"/>
+	<Package name="fs24-climax-airrace-redbull-budapest" active="Activated"/>
+	<Package name="fs24-climax-airrace-redbull-chiba" active="Activated"/>
+	<Package name="fs24-climax-airrace-redbull-default" active="Activated"/>
+	<Package name="fs24-climax-airrace-redbull-monument-valley" active="Activated"/>
+	<Package name="fs24-climax-airrace-redbull-rio-de-janeiro" active="Activated"/>
+	<Package name="fs24-climax-airrace-redbull-spielberg" active="Activated"/>
 	<Package name="communityfs20-despamods-kslc-custom" active="Activated"/>
+	<Package name="communityfs20-doha-airport-scenery" active="Activated"/>
 	<Package name="communityfs20-domtom69-lfll-saintexupery-twr" active="Activated"/>
+	<Package name="communityfs20-eddh-hamburg" active="Activated"/>
 	<Package name="communityfs20-eidw-dublin-intl" active="Activated"/>
 	<Package name="communityfs20-engm-oslo" active="Activated"/>
-	<Package name="fs24-esd-modellib-eolib" active="Activated"/>
+	<Package name="fs24-esd-modellib-eolib" active="Activated" priority="-138"/>
 	<Package name="communityfs20-euroscene-airport-lepa-palma-de-mallorca" active="Activated" priority="101"/>
-	<Package name="communityfs20-3sc0b4r-airport-wibb-pekanbaru" active="Activated" priority="101"/>
-	<Package name="communityfs20-a320-fbw-livery-cca-new_qaxeq" active="Activated"/>
-	<Package name="communityfs20-a320-fbw-livery-csz" active="Activated"/>
-	<Package name="communityfs20-a320-livery-airnewzealand_orienteps" active="Activated"/>
-	<Package name="communityfs20-a320-livery-alpaca_a32nx" active="Activated"/>
-	<Package name="communityfs20-a320-livery-easyjetneo_orienteps" active="Activated"/>
-	<Package name="communityfs20-a320-livery-vistara_adi_fbw" active="Activated"/>
-	<Package name="communityfs20-a320neo-indigo" active="Activated"/>
-	<Package name="communityfs20-a32nx-livery-sas_new8k" active="Activated"/>
-	<Package name="communityfs20-a32nx-livery-sasconnect-ei-sir" active="Activated"/>
-	<Package name="communityfs20-aerial-ltfm-argaeus" active="Activated"/>
-	<Package name="fs20-aerosoft-paderborn" active="UserDisabled"/>
-	<Package name="communityfs20-agn-fbw-a32nx-jst5a" active="Activated"/>
-	<Package name="communityfs20-airport-wahi-yogyakarta-intl" active="Activated"/>
-	<Package name="communityfs24-argaeus-airport-dca-ronald-reagan-washington-national-airport" active="Activated"/>
-	<Package name="communityfs20-argaeus-airport-ltfm-istanbul" active="Activated"/>
-	<Package name="fs24-asobo-activities" active="Activated"/>
-	<Package name="fs24-asobo-activities-aerialadvertising" active="Activated"/>
-	<Package name="fs24-asobo-activities-aerialadvertising-example" active="Activated"/>
-	<Package name="fs24-asobo-activities-agriculturalaviation" active="Activated"/>
-	<Package name="fs24-asobo-activities-aviatorperfs" active="Activated"/>
-	<Package name="fs24-asobo-activities-cargo-rotorcraft-hook" active="Activated"/>
-	<Package name="fs24-asobo-activities-cargotransport" active="Activated"/>
-	<Package name="fs24-asobo-activities-commercialflight" active="Activated"/>
-	<Package name="fs24-asobo-activities-directorscut" active="Activated"/>
-	<Package name="fs24-asobo-activities-failures" active="Activated"/>
-	<Package name="fs24-asobo-activities-familiarization" active="Activated"/>
-	<Package name="fs24-asobo-activities-ferryflight" active="Activated"/>
-	<Package name="fs24-asobo-activities-firefighting" active="Activated"/>
-	<Package name="fs24-asobo-activities-firstflight" active="Activated"/>
-	<Package name="fs24-asobo-activities-flightseeing" active="Activated"/>
-	<Package name="fs24-asobo-activities-generic" active="Activated"/>
-	<Package name="fs24-asobo-activities-medevac" active="Activated"/>
-	<Package name="fs24-asobo-activities-missionperfs" active="Activated"/>
-	<Package name="fs24-asobo-activities-privatecharter" active="Activated"/>
-	<Package name="fs24-asobo-activities-rescue" active="Activated"/>
-	<Package name="fs24-asobo-activities-skydive" active="Activated"/>
-	<Package name="fs24-asobo-activities-templates" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-208b-grand-caravan-ex" active="Activated"/>
-	<Package name="communityfs20-asobo-aircraft-a320-neo" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-at802" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-b737max" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-b7478i" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-b787-10-livery-aviators" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-b787-10-livery-klm" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-b787-10-livery-orbit" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-b787-10-livery-pacifica" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-b787-10-livery-united" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-b787-10-livery-worldtravel" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-b787-10-livery-xbox-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-baron-g58-livery-01" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-baron-g58-livery-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-baron-g58-livery-kenmore" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-baron-g58-livery-xbox-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-bonanza-g36" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-c152" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-c152-aerobat-livery-01" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-c152-aerobat-livery-aviators" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-c152-aerobat-livery-kenmore" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-c172sp-as1000" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-cabri-g2" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-cap10c" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-cj4" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-cl415" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-da40-ng" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-da40-tdi-livery-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-da40-tdi-livery-kenmore" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-da40-tdi-livery-xbox-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-da62" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-dg1001-e" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-dr400" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-dv20-livery-01" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-dv20-livery-aviators" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-dv20-livery-kenmore" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-dv20-livery-xbox-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-e330" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-es30" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-fa18e" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-flightdesignct" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-flydoo" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-h125" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-hotairballoon" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-icon" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-kingair350" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-l39-reno" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-l39-reno-common" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-longitude-livery-01" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-longitude-livery-aviators" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-longitude-livery-global" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-longitude-livery-kenmore" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-longitude-livery-orbit" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-longitude-livery-pacifica" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-longitude-livery-xbox-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-ls8" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-nxcub" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-p51d-reno" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-p51d-reno-common" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pipistrel-livery-01" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pipistrel-livery-aviators" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pipistrel-livery-kenmore" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pipistrel-livery-xbox-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-pitts" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pitts-livery-aviators" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pitts-livery-xbox-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-pitts-s1-reno" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pitts-s1-reno-common" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pitts-s2-livery-kenmore" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pitts-s2-rufus" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-pitts-s2-sam" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-savage-cub" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-savage-shockultra-livery-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-savage-shockultra-livery-kenmore" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-savage-shockultra-livery-xbox-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-skyship600" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-sr22-livery-01" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-sr22-livery-aviators" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-sr22-livery-kenmore" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-sr22-livery-xbox-aviators" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-t6-reno" active="Activated"/>
-	<Package name="fs20-asobo-aircraft-t6-reno-common" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-tbm930" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-vl3" active="Activated"/>
-	<Package name="fs24-asobo-aircraft-xcub" active="Activated"/>
-	<Package name="fs24-asobo-airport-biis-isafjordur" active="Activated"/>
-	<Package name="fs24-asobo-airport-c53-lowerloon" active="Activated"/>
-	<Package name="fs24-asobo-airport-cytz-billy-bishop" active="Activated"/>
-	<Package name="fs24-asobo-airport-czst-stewart-aerodrome" active="Activated"/>
-	<Package name="fs24-asobo-airport-eg78-outskerries" active="Activated"/>
-	<Package name="fs24-asobo-airport-eidl-donegal" active="Activated"/>
-	<Package name="fs24-asobo-airport-fxme-maketane" active="Activated"/>
-	<Package name="fs24-asobo-airport-huen-entebbe" active="Activated"/>
-	<Package name="fs24-asobo-airport-kase-aspen" active="Activated"/>
-	<Package name="fs24-asobo-airport-kcof-patrickafb" active="Activated"/>
-	<Package name="fs24-asobo-airport-kdfw-dallas-fort-worth" active="Activated"/>
-	<Package name="fs24-asobo-airport-keb-nanwalek" active="Activated"/>
-	<Package name="fs24-asobo-airport-kjfk-new-york-jfk" active="Activated"/>
-	<Package name="fs24-asobo-airport-klax-losangeles" active="Activated"/>
-	<Package name="fs24-asobo-airport-kmco-orlando" active="Activated"/>
-	<Package name="fs24-asobo-airport-knfl-nas-fallon" active="Activated"/>
-	<Package name="fs24-asobo-airport-knkx-miramar-mcas" active="Activated"/>
-	<Package name="fs24-asobo-airport-krts-reno-stead" active="Activated"/>
-	<Package name="fs24-asobo-airport-ksea-seattle-tacoma" active="Activated"/>
-	<Package name="fs24-asobo-airport-ksez-sedona" active="Activated"/>
-	<Package name="fs24-asobo-airport-kswf-stewartintl" active="Activated"/>
-	<Package name="fs24-asobo-airport-ktex-telluride" active="Activated"/>
-	<Package name="fs24-asobo-airport-kxmr-cap-canaveral" active="Activated"/>
-	<Package name="fs24-asobo-airport-lebb-bilbao" active="Activated"/>
-	<Package name="fs20-asobo-airport-lfcs-saucats" active="Activated"/>
-	<Package name="fs24-asobo-airport-lflj-courchevel" active="Activated"/>
-	<Package name="fs24-asobo-airport-lfpg-paris-charles-de-gaulle" active="Activated"/>
-	<Package name="fs24-asobo-airport-lowi-innsbruck" active="Activated"/>
-	<Package name="fs24-asobo-airport-lpma-madeira" active="Activated"/>
-	<Package name="fs24-asobo-airport-lxgb-gibraltar" active="Activated"/>
-	<Package name="fs24-asobo-airport-mhtg-toncontin" active="Activated"/>
-	<Package name="fs24-asobo-airport-mrsn-sirena-station" active="Activated"/>
-	<Package name="fs24-asobo-airport-nzqn-queenstown" active="Activated"/>
-	<Package name="fs24-asobo-airport-rjtt-tokyo-haneda" active="Activated"/>
-	<Package name="fs24-asobo-airport-rjx8-suwanosejima" active="Activated"/>
-	<Package name="fs24-asobo-airport-rokr-kerama" active="Activated"/>
-	<Package name="fs24-asobo-airport-rors-shimojishima" active="Activated"/>
-	<Package name="fs24-asobo-airport-sbgl-riodejaneiro" active="Activated"/>
-	<Package name="fs24-asobo-airport-seqm-mariscal-sucre-quito" active="Activated"/>
-	<Package name="fs24-asobo-airport-spgl-chagual" active="Activated"/>
-	<Package name="fs24-asobo-airport-tffj-gustaf" active="Activated"/>
-	<Package name="fs24-asobo-airport-tncs-saba" active="Activated"/>
-	<Package name="fs24-asobo-airport-vnlk-lukla" active="Activated"/>
-	<Package name="fs24-asobo-airport-vqpr-paro" active="Activated"/>
-	<Package name="fs24-asobo-airport-wx53-bugalaga" active="Activated"/>
-	<Package name="fs24-asobo-airport-yssy-sydney" active="Activated"/>
-	<Package name="fs24-asobo-apron-control-services" active="Activated"/>
-	<Package name="fs24-asobo-cabin-services" active="Activated"/>
-	<Package name="fs24-asobo-cameras" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-altiport" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-atpl" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-atplheavy" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-atpljet" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-atplturboprop" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-cpl" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-highperformance" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-ifr" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-jet" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-multiengine" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-night" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-ppl" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-scoop" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-seaplane" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-tailwheel" active="Activated"/>
-	<Package name="fs24-asobo-certification-airplane-turboprop" active="Activated"/>
-	<Package name="fs24-asobo-certification-common" active="Activated"/>
-	<Package name="fs24-asobo-certification-rotorcraft-atplrestricted" active="Activated"/>
-	<Package name="fs24-asobo-certification-rotorcraft-cpl" active="Activated"/>
-	<Package name="fs24-asobo-certification-rotorcraft-hoist" active="Activated"/>
-	<Package name="fs24-asobo-certification-rotorcraft-hook" active="Activated"/>
-	<Package name="fs24-asobo-certification-rotorcraft-turbineengine" active="Activated"/>
-	<Package name="fs24-asobo-certification-rotorcraft-vtol" active="Activated"/>
-	<Package name="fs24-asobo-certification-template-traffic-pattern" active="Activated"/>
-	<Package name="fs24-asobo-certification-template-traffic-pattern-rotorcraft" active="Activated"/>
-	<Package name="fs24-asobo-challenges-customchallenge-base" active="Activated"/>
-	<Package name="fs24-asobo-challenges-default" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-base" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-effects" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-alps" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-blueridgemountains" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-blueridgemountains-a10" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-grandcanyon" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-pyrenees" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-riffelake" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-selenice" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-sidewinderab" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-toiyabecanyon" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s1-yanertglacier" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s2-corsica" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-s2-urubici" active="Activated"/>
-	<Package name="fs24-asobo-challenges-lowalt-ui" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-base" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-belayim" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-courchevel-lflj" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-donamarta-smdh" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-islaholbox" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-lukla-vnlk" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-orlando-kmco" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-saba-tncs" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-savannafuue" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-theneedles-eglt" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s1-thridrangaviti" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s2-indianarm" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s2-langkampfen-loik" active="Activated"/>
-	<Package name="fs24-asobo-challenges-precisionlanding-s2-saopaulo-sbgr" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-base" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s1-gaube-xcub" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s1-glacier" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s1-glacier-l39" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s1-grandcanyon" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s1-machloop" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s1-malaga" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s1-malaga-at802" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s1-queenstown" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s1-queenstown-at802" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-s2-riodejaneiro" active="Activated"/>
-	<Package name="fs24-asobo-challenges-rallyrace-ui" active="Activated"/>
-	<Package name="fs24-asobo-challenges-redbull-base" active="Activated"/>
-	<Package name="fs24-asobo-discovery" active="Activated"/>
-	<Package name="fs24-asobo-discovery-copenhagen" active="Activated"/>
-	<Package name="fs24-asobo-discovery-ecrins" active="Activated"/>
-	<Package name="fs24-asobo-discovery-everest" active="Activated"/>
-	<Package name="fs24-asobo-discovery-flakstad" active="Activated"/>
-	<Package name="fs24-asobo-discovery-fortwilliams" active="Activated"/>
-	<Package name="fs24-asobo-discovery-fuji" active="Activated"/>
-	<Package name="fs24-asobo-discovery-giza" active="Activated"/>
-	<Package name="fs24-asobo-discovery-leewardislands" active="Activated"/>
-	<Package name="fs24-asobo-discovery-london" active="Activated"/>
-	<Package name="fs24-asobo-discovery-naples" active="Activated"/>
-	<Package name="fs24-asobo-discovery-newyork" active="Activated"/>
-	<Package name="fs24-asobo-discovery-paris" active="Activated"/>
-	<Package name="fs24-asobo-discovery-riodejaneiro" active="Activated"/>
-	<Package name="fs24-asobo-discovery-sanfrancisco" active="Activated"/>
-	<Package name="fs24-asobo-discovery-tokyo" active="Activated"/>
-	<Package name="fs24-asobo-discovery-yosemite" active="Activated"/>
-	<Package name="fs24-asobo-discoverylegacy" active="Activated"/>
-	<Package name="fs24-asobo-dynamic-material-lib" active="Activated"/>
-	<Package name="fs24-asobo-environment-cameras" active="Activated"/>
-	<Package name="fs24-asobo-event-rescuechallenge" active="Activated"/>
-	<Package name="fs24-asobo-eventtriggers" active="Activated"/>
-	<Package name="fs24-asobo-fa18e-character" active="Activated"/>
-	<Package name="fs24-asobo-facial-animations" active="Activated"/>
-	<Package name="fs24-asobo-flight-tutorials-default" active="Activated"/>
-	<Package name="fs24-asobo-flow" active="Activated"/>
-	<Package name="fs24-asobo-freeflights" active="Activated"/>
-	<Package name="fs24-asobo-interactions-preset" active="Activated"/>
-	<Package name="fs24-asobo-jetways" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge" active="Activated"/>
-	<Package name="fs20-asobo-landingchallenge-biis-isafjordur-fs24" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-cytz-billy-bishop" active="Activated"/>
-	<Package name="fs20-asobo-landingchallenge-efva-vaasa-fs24" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-eg78-outskerries" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-eghi-southampton" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-eidl-donegal" active="Activated"/>
-	<Package name="fs20-asobo-landingchallenge-ekrn-bornholm-fs24" active="Activated"/>
-	<Package name="fs20-asobo-landingchallenge-ensb-svalbard-fs24" active="Activated"/>
-	<Package name="fs20-asobo-landingchallenge-essa-arlanda-fs24" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-kase-aspen" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-keb-nanwalek" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-kjac-jackson" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-ksez-sedona" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-kswf-stewartintl" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-lflj-courchevel" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-lfmn-nice" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-lowi-innsbruck" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-lpma-madeira" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-lxgb-gibraltar" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-mhtg-toncontin" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-mynn-nassau" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-nzqn-queenstown" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-rjth-hachijojima" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-rjx8-suwanosejima" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-rokr-kerama" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-sbgl-riodejaneiro" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-scld-llanadagrande" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-seqm-mariscal-sucre-quito" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-tffj-gustaf" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-tncs-saba" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-vnlk-lukla" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-vqpr-paro" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-wx53-bugalaga" active="Activated"/>
-	<Package name="fs24-asobo-landingchallenge-yssy-sydney" active="Activated"/>
-	<Package name="fs24-asobo-lepack-landingchallenge-huen-entebbe" active="Activated"/>
-	<Package name="fs24-asobo-lepack-landingchallenge-knkx-mcasmiramar" active="Activated"/>
-	<Package name="fs24-asobo-lepack-landingchallenge-krts-reno" active="Activated"/>
-	<Package name="fs24-asobo-lepack-landingchallenge-lflj-courchevel" active="Activated"/>
-	<Package name="fs24-asobo-lepack-landingchallenge-lfpg-cdg" active="Activated"/>
-	<Package name="fs24-asobo-lepack-landingchallenge-lfps-lasalette" active="Activated"/>
-	<Package name="fs24-asobo-lepack-landingchallenge-mrsn-sirenastation" active="Activated"/>
-	<Package name="fs24-asobo-lepack-landingchallenge-n15-kingstonnevada" active="Activated"/>
-	<Package name="fs24-asobo-lepack-landingchallenge-spgl-chagual" active="Activated"/>
-	<Package name="fs24-asobo-liveevent" active="Activated"/>
-	<Package name="fs24-asobo-livingworld" active="Activated"/>
-	<Package name="fs24-asobo-material-lib" active="Activated"/>
-	<Package name="fs24-asobo-mission-templates" active="Activated"/>
-	<Package name="fs24-asobo-modellib-airport-generic" active="Activated"/>
-	<Package name="fs24-asobo-modellib-assets" active="Activated"/>
-	<Package name="fs24-asobo-modellib-buildings" active="Activated"/>
-	<Package name="fs24-asobo-modellib-dynamicassets" active="Activated"/>
-	<Package name="fs24-asobo-modellib-props" active="Activated"/>
-	<Package name="fs24-asobo-modellib-texture" active="Activated"/>
-	<Package name="fs24-asobo-modellib-vegetation" active="Activated"/>
-	<Package name="fs24-asobo-palettelib" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-a220family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-a310family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-a320family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-a330family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-a340family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-a350family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-a380" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-aa1" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-aa5" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-atrfamily" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-b190" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-b717-200" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-b737family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-b747family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-b757family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-b767family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-b777family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-b787family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-baron58family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-18" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-23" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-390" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-400" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-45" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-50" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-60" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-70family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-76" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-77" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-95" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-beech-99" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-bell-204family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-bell-230family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-bell-412" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-bell-427" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-bell-429" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-bell-505" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-bl8" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-bonanzafamily" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c140family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c152family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c162" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c170" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c172family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c177" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c182family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c206family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c208" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c208b" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c210family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c303" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c320family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c337family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c340" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c402family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c411" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c421family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-c441" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-cj1family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-cj2family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-cj3" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-cj4" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-i" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-ii" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-iiifamily" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-latitude" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-longitude" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-mustang" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-sovereign" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-v" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-x" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-citation-xls" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-co1" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-da20" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-da40family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-da42" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-da62" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-dg1001" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-dhc8family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-djet" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-e2" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-e330" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-eagle" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-ejet-190e2" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-ejet-195e2" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-ejet170family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-ejet190family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-erjfamily" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-fa18" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-glider" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-hab" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-generic-helicopter" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-husky" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-kingairfamily" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-kodiak" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-legacy500" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-m7family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-md10family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-md80family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-p2002" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-p2004" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-p2006" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-p2008" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-p2010" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-p2012" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-p92" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-pc12" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-pc24" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-pc6" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-phenom100" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-phenom300" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-praetor500" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-praetor600" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-r22" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-r44" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-r66" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-s2000" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-sf50" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-sr22family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-t38" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-t50" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-t6family" active="Activated"/>
-	<Package name="fs24-asobo-passiveaircraft-tbm930" active="Activated"/>
-	<Package name="fs24-asobo-procedural-hangar" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-avatar" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-civilian" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-common" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-instructor" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-journalist" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-medic" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-pilot" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-skydiver" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-swimmer" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-vip" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-character-worker" active="Activated"/>
-	<Package name="fs24-asobo-proceduralgeneration-vehicles" active="Activated"/>
-	<Package name="fs24-asobo-scenarii" active="Activated"/>
-	<Package name="fs24-asobo-services" active="Activated"/>
-	<Package name="fs24-asobo-simattachmentlib-aircraft-objects" active="Activated"/>
-	<Package name="fs24-asobo-simattachmentlib-instruments" active="Activated"/>
-	<Package name="fs24-asobo-simattachmentlib-vehicle-objects" active="Activated"/>
-	<Package name="fs24-asobo-simobjects-animals" active="Activated"/>
-	<Package name="fs20-asobo-simobjects-boats" active="Activated"/>
-	<Package name="fs20-asobo-simobjects-boats-modular" active="Activated"/>
-	<Package name="fs24-asobo-simobjects-characters" active="Activated"/>
-	<Package name="fs24-asobo-simobjects-landmarks" active="Activated"/>
-	<Package name="fs24-asobo-simobjects-liquids" active="Activated"/>
-	<Package name="fs24-asobo-simobjects-misc" active="Activated"/>
-	<Package name="fs24-asobo-simobjects-vehicles" active="Activated"/>
-	<Package name="fs24-asobo-simpropcontainer" active="Activated"/>
-	<Package name="fs24-asobo-surface-artificial-material-lib" active="Activated"/>
-	<Package name="fs24-asobo-surface-details-material-lib" active="Activated"/>
-	<Package name="fs24-asobo-surface-natural-material-lib" active="Activated"/>
-	<Package name="fs24-asobo-textlib" active="Activated"/>
-	<Package name="fs24-asobo-texturelib" active="Activated"/>
-	<Package name="fs24-asobo-trainings-airliner-landing" active="Activated"/>
-	<Package name="fs24-asobo-trainings-airliner-takeoff" active="Activated"/>
-	<Package name="fs24-asobo-trainings-basic-aircraft" active="Activated"/>
-	<Package name="fs24-asobo-trainings-basic-attitude" active="Activated"/>
-	<Package name="fs24-asobo-trainings-basic-familiarisation" active="Activated"/>
-	<Package name="fs24-asobo-trainings-basic-power" active="Activated"/>
-	<Package name="fs24-asobo-trainings-basic-simcontrols" active="Activated"/>
-	<Package name="fs24-asobo-trainings-basic-test" active="Activated"/>
-	<Package name="fs24-asobo-trainings-basic-trim" active="Activated"/>
-	<Package name="fs24-asobo-trainings-basic-turns" active="Activated"/>
-	<Package name="fs24-asobo-trainings-bush-downdrafts" active="Activated"/>
-	<Package name="fs24-asobo-trainings-bush-shortfieldlanding" active="Activated"/>
-	<Package name="fs24-asobo-trainings-bush-shortfieldtakeoff" active="Activated"/>
-	<Package name="fs24-asobo-trainings-bush-test" active="Activated"/>
-	<Package name="fs24-asobo-trainings-bush-updrafts" active="Activated"/>
-	<Package name="fs24-asobo-trainings-bush-waterlanding" active="Activated"/>
-	<Package name="fs24-asobo-trainings-bush-watertakeoff" active="Activated"/>
-	<Package name="fs24-asobo-trainings-common" active="Activated"/>
-	<Package name="fs24-asobo-trainings-f18-abtakeoff" active="Activated"/>
-	<Package name="fs24-asobo-trainings-f18-ridgecrossing" active="Activated"/>
-	<Package name="fs24-asobo-trainings-f18-splits" active="Activated"/>
-	<Package name="fs24-asobo-trainings-glider-aerotow" active="Activated"/>
-	<Package name="fs24-asobo-trainings-glider-introflight" active="Activated"/>
-	<Package name="fs24-asobo-trainings-glider-ridgesoaring" active="Activated"/>
-	<Package name="fs24-asobo-trainings-glider-slipping" active="Activated"/>
-	<Package name="fs24-asobo-trainings-glider-thermalid" active="Activated"/>
-	<Package name="fs24-asobo-trainings-glider-winchbreak" active="Activated"/>
-	<Package name="fs24-asobo-trainings-glider-winchtakeoff" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-approach" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-basic" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-collective" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-cyclic" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-hover" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-intro" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-pedals" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-quickstop" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-solo" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-steep" active="Activated"/>
-	<Package name="fs24-asobo-trainings-helicopter-takeoff" active="Activated"/>
-	<Package name="fs24-asobo-trainings-ifrnav-climbanddescent" active="Activated"/>
-	<Package name="fs24-asobo-trainings-ifrnav-ifrtest" active="Activated"/>
-	<Package name="fs24-asobo-trainings-ifrnav-ilsapproach" active="Activated"/>
-	<Package name="fs24-asobo-trainings-ifrnav-rnav" active="Activated"/>
-	<Package name="fs24-asobo-trainings-ifrnav-speedcontrol" active="Activated"/>
-	<Package name="fs24-asobo-trainings-ifrnav-turning" active="Activated"/>
-	<Package name="fs24-asobo-trainings-ifrnav-vor" active="Activated"/>
-	<Package name="fs24-asobo-trainings-pattern-downwind" active="Activated"/>
-	<Package name="fs24-asobo-trainings-pattern-landing" active="Activated"/>
-	<Package name="fs24-asobo-trainings-pattern-preflight" active="Activated"/>
-	<Package name="fs24-asobo-trainings-pattern-solo" active="Activated"/>
-	<Package name="fs24-asobo-trainings-pattern-takeoff" active="Activated"/>
-	<Package name="fs24-asobo-trainings-pattern-taxi" active="Activated"/>
-	<Package name="fs24-asobo-trainings-pattern-throttlelanding" active="Activated"/>
-	<Package name="fs24-asobo-trainings-pattern-yokelanding" active="Activated"/>
-	<Package name="fs24-asobo-trainings-vfr-arrival" active="Activated"/>
-	<Package name="fs24-asobo-trainings-vfr-deadreckoning" active="Activated"/>
-	<Package name="fs24-asobo-trainings-vfr-departure" active="Activated"/>
-	<Package name="fs24-asobo-trainings-vfr-pilotage" active="Activated"/>
-	<Package name="fs24-asobo-trainings-vfr-solo" active="Activated"/>
-	<Package name="fs24-asobo-travelbook" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-airportspotting-europe" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-airportspotting-pacific" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-airportspotting-usa" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-americasnationalparks" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-asiamonuments" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-basicfauna" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-castlesofeurope" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-extremeairports" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-famousmonuments" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-fauna-savannasafari" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-geoglyphs" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-highaltnature" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-hotairballoon" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-iconicbridges-usa" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-landscapesofeurope" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-manmadehighalt" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-notablerocks" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-ofearthandwater" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-oilrigs" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-planespottingmediumairliners" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-planespottingwidebodyairliners" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-roofsoftheworld" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-shadeofseasons" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-spacetheskiesbeyond" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-srfleetgliders" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-srfleetprofessionals" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-srfleetprotectorsoftheskies" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-srfleettourismleisure" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-stunningcities" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-tourmanhattan" active="Activated"/>
-	<Package name="fs24-asobo-travelbook-tourparis" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-core" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-a320-neo" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-airliners" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-avionics-suite" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-b737-max8" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-b747-8" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-b787-10" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-cj4" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-cl415" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-da40" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-fa18" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-fss-generic" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-generic" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-gliders" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-helicopters" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-hot-air-balloon" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-navsystems" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-orbx-generic" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-instruments-wasm" active="Activated"/>
-	<Package name="fs24-asobo-vcockpits-systems" active="Activated"/>
-	<Package name="fs24-asobo-vfx-material-lib" active="Activated"/>
-	<Package name="fs24-asobo-vfx-staticmesh" active="Activated"/>
-	<Package name="fs24-asobo-vliveries" active="Activated"/>
-	<Package name="communityfs20-asobo_a320_neo_frontier_cliff_a32nx" active="Activated"/>
-	<Package name="communityfs20-asobo_a320_neo_frontiersonny_a32nx" active="Activated"/>
-	<Package name="communityfs20-avasims-airport-kphl-philadelphia" active="Activated"/>
-	<Package name="fs24-bf-pgg" active="Activated"/>
-	<Package name="communityfs20-bggh - nuuk airport" active="Activated"/>
-	<Package name="communityfs20-bgr1664-airport-lfll" active="Activated"/>
-	<Package name="communityfs20-ces2411-zugy" active="Activated"/>
-	<Package name="communityfs20-despamods-kslc-custom" active="Activated"/>
-	<Package name="communityfs20-domtom69-lfll-saintexupery-twr" active="Activated"/>
-	<Package name="communityfs20-eidw-dublin-intl" active="Activated"/>
-	<Package name="communityfs20-engm-oslo" active="Activated"/>
-	<Package name="fs20-esd-modellib-eolib" active="SystemDisabled"/>
-	<Package name="fs24-esd-modellib-eolib" active="Activated"/>
 	<Package name="communityfs20-fbw a380x - qatar airways pack valexyo-hues 4k" active="Activated"/>
 	<Package name="communityfs20-fbw-a320neo latam brasil pr-xbo" active="Activated"/>
 	<Package name="communityfs20-fbw_a320neo_ba better world g-ttna" active="Activated"/>
@@ -1251,6 +659,8 @@
 	<Package name="communityfs20-flybywire-aircraft-a380-842_cvt_" active="Activated"/>
 	<Package name="communityfs20-flybywire-aircraft-a380-ana_ja381a_4k" active="Activated"/>
 	<Package name="communityfs20-flybywire-aircraft-a380-ana_ja383a_4k" active="Activated"/>
+	<Package name="communityfs20-flybywire-aircraft-a380-hfm-9hglobl-4k" active="Activated"/>
+	<Package name="communityfs20-flybywire-externaltools-simbridge" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_air india vt-rtn_vekxj" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_condor" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_dlh pack 4k" active="Activated"/>
@@ -1258,7 +668,7 @@
 	<Package name="communityfs20-flybywire_a320neo_fgneo" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_latamcl" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_spirit" active="Activated"/>
-	<Package name="communityfs24-fnx-321-vwzz-a6-wab" active="Activated"/>
+	<Package name="communityfs24-fnx-321-msfs2024-titanairways-pack" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-319-321" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-319-liveries" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-319-liveries-sabena-4k" active="Activated"/>
@@ -1266,11 +676,13 @@
 	<Package name="communityfs20-fnx-aircraft-320-cfgdaict_jk_4k" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-dcd-igovtihz-8k" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-dcd-jjpja01jj-8k" active="Activated"/>
+	<Package name="communityfs24-fnx-aircraft-320-gpowk" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-liveries" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-liveries-sabena-4k" active="Activated"/>
 	<Package name="communityfs20-fnx-aircraft-320_cvt_" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-321-liveries" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-a320-iae-anz-domestic-pack" active="Activated"/>
+	<Package name="communityfs24-fnx-pack-a319-cfm-n744p-2024" active="Activated"/>
 	<Package name="fs24-fs-activities-kh" active="Activated"/>
 	<Package name="fs24-fs-base" active="Activated"/>
 	<Package name="fs24-fs-base-achievements" active="Activated"/>
@@ -1354,6 +766,7 @@
 	<Package name="communityfs20-fsltl-traffic-base" active="Activated"/>
 	<Package name="communityfs20-fsuipc-lvar-module" active="Activated"/>
 	<Package name="communityfs20-gakki-airport-zlic-yinchuanhedong" active="Activated"/>
+	<Package name="communityfs20-gakki-taiyuanwushu" active="Activated"/>
 	<Package name="communityfs20-gatwick" active="Activated"/>
 	<Package name="communityfs20-gcts-reina-sofia" active="Activated"/>
 	<Package name="communityfs20-gobby-egmc-southend" active="Activated"/>
@@ -1361,11 +774,15 @@
 	<Package name="communityfs20-headwind-a339-vkg-oy-vkp" active="Activated"/>
 	<Package name="communityfs20-headwindsim-a339x-livery-package" active="Activated"/>
 	<Package name="communityfs20-headwindsim-aircraft-a330-900" active="Activated"/>
+	<Package name="communityfs24-heli5432-egll-heathrow" active="Activated"/>
 	<Package name="communityfs20-hu277-airport-eddl-v143gsx" active="Activated"/>
 	<Package name="communityfs20-jeromelogue-airport-egac-belfast" active="Activated"/>
 	<Package name="communityfs20-kaze-airport-rjoa-hiroshima" active="Activated" priority="101"/>
 	<Package name="communityfs20-kaze-airport-rjoa-hiroshima-enhanced" active="Activated" priority="102"/>
+	<Package name="fs20-esd-modellib-eolib" active="SystemDisabled"/>
+	<Package name="communityfs24-fnx-321-vwzz-a6-wab" active="Activated"/>
 	<Package name="communityfs20-kdtw-detroit metro wayne" active="Activated"/>
+	<Package name="communityfs20-kfs-fnxa320-frontiern937fr_24" active="Activated"/>
 	<Package name="communityfs20-kfs_fbwa380_ana-ja382a" active="Activated"/>
 	<Package name="communityfs20-kritikv-airport-vaah-ahmedabad" active="Activated"/>
 	<Package name="communityfs20-kritikv-objectsvaah" active="Activated"/>
@@ -1376,6 +793,7 @@
 	<Package name="communityfs20-kvsceneries-airport-vaah-ahmedabad" active="Activated"/>
 	<Package name="communityfs20-kychungdotcom-airport-velp-lengpui" active="Activated"/>
 	<Package name="communityfs20-leal-alicante" active="Activated"/>
+	<Package name="communityfs20-library-airportobjects-karuchie" active="Activated"/>
 	<Package name="communityfs20-livery-a20n-airindia" active="Activated"/>
 	<Package name="communityfs20-livery-fbw-a320-ana-ja211a" active="Activated"/>
 	<Package name="communityfs20-lswain-airport-niue-niue-island" active="Activated"/>
@@ -1406,17 +824,19 @@
 	<Package name="fs20-microsoft-40th-anniversary-point-of-interest" active="Activated"/>
 	<Package name="communityfs24-microsoft-a321-anz" active="Activated"/>
 	<Package name="communityfs24-microsoft-a321-sas-dmo" active="Activated"/>
+	<Package name="communityfs24-microsoft-a321-sunclass" active="Activated"/>
 	<Package name="communityfs24-microsoft-a330-300-b-8865" active="Activated"/>
 	<Package name="communityfs24-microsoft-a330_sabena" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a10c" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a310-300" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a320neo" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a321" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a321-a7-ajb" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a321-aer-lingus-lrg" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a321-ana-ja139a" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a321-ezy-g-uzma" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a321-fft-n656fr" active="Activated"/>
-	<Package name="communityfs20-microsoft-aircraft-a321-igo-vt-iby" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a321-igo-vt-iby" active="Activated"/>
 	<Package name="communityfs20-microsoft-aircraft-a321-klm-ph-axb" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a330" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-200-dal" active="Activated"/>
@@ -1435,6 +855,7 @@
 	<Package name="fs24-microsoft-aircraft-archer" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-bell407" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-belugaxl" active="Activated"/>
+	<Package name="fs24-microsoft-aircraft-boom-xb1" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-c185f-skywagon" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-c400-corvalis" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-cap4" active="Activated"/>
@@ -1473,6 +894,7 @@
 	<Package name="fs24-microsoft-aircraft-sf50" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-skyrascal" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-spirit-of-st-louis" active="Activated"/>
+	<Package name="fs24-microsoft-aircraft-uh1h" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-volocity" active="Activated"/>
 	<Package name="fs20-microsoft-aircraft-volocity-livery-aviators" active="Activated"/>
 	<Package name="fs20-microsoft-aircraft-volocity-livery-xbox-aviators" active="Activated"/>
@@ -1631,6 +1053,7 @@
 	<Package name="fs20-microsoft-discovery-lisbon" active="Activated"/>
 	<Package name="fs20-microsoft-discovery-madrid" active="Activated"/>
 	<Package name="fs20-microsoft-discovery-mauna" active="Activated"/>
+	<Package name="fs24-microsoft-discovery-mauna" active="Activated"/>
 	<Package name="fs20-microsoft-discovery-mecca" active="Activated"/>
 	<Package name="fs20-microsoft-discovery-melbourne" active="Activated"/>
 	<Package name="fs20-microsoft-discovery-montreal" active="Activated"/>
@@ -1678,6 +1101,8 @@
 	<Package name="fs24-microsoft-flight-tutorials-ifrnav-vor" active="Activated"/>
 	<Package name="fs20-microsoft-france-benelux-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-germany-austria-switzerland-point-of-interest" active="Activated"/>
+	<Package name="fs24-microsoft-germany-austria-switzerland-point-of-interest" active="Activated"/>
+	<Package name="fs20-microsoft-germany-point-of-interest" active="Activated"/>
 	<Package name="fs24-microsoft-germany-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-iberia-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-italy-point-of-interest" active="Activated"/>
@@ -1685,52 +1110,75 @@
 	<Package name="fs24-microsoft-japan-point-of-interest" active="Activated"/>
 	<Package name="fs24-microsoft-japan2-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-1id9-inkom-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-1id9-inkom-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-ayin-busilmin" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-biar-akureyri" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-cas3-barkerville-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-cas3-barkerville-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-cycg-castlegar-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-cycg-castlegar-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-cyyc-calgary-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-cyyc-calgary-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-dach2a-edcp" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-dach2b-logi" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-dach2c-lspm" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-dach2c-lspm" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-eddl-dusseldorf-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-edxh-duene-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-egss-stansted-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-eick-cork-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-eick-cork-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-enra-rossvoll-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-enra-rossvoll-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-essc-ekeby-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-katl-atlanta-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-katl-atlanta-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-ktex-telluride-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-ktex-telluride-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-ldsp-kastela" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-ldsp-kastela" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-lebb-bilbao-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-lege-girona-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-lege-girona-fs24" active="Activated"/>
+	<Package name="fs20-microsoft-landingchallenge-leln-leon" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-lenl-leon" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-licj-palermo-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-licr-reggiocalabria-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-licr-reggiocalabria-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-limj-sestri-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-limj-sestri-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-ljza-zagorje" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-lowk-klagenfurt-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-lowk-klagenfurt-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-lppi-pico" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-lppi-pico" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-lppm-portimao-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-lppm-portimao-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-lsza-lugano-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-lsza-lugano-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-lszr-stgallen-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-lztt-tatry" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-mdpp-luperon-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-mtca-cayes-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-mtca-cayes-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-myeh-eleuther-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-myeh-eleuther-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-nffn-nadi" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-nzch-christchurch" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-nzqe-griver-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-nzrc-bluff" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-nzwn-wellington" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-p16-palmyra" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-p16-palmyra" active="Activated"/>
 	<Package name="fs24-microsoft-landingchallenge-sbfn-noronha" active="Activated"/>
 	<Package name="fs24-microsoft-landingchallenge-sbrj-dumont" active="Activated"/>
 	<Package name="fs24-microsoft-landingchallenge-sbsp-saopaulo" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-ybbn-brisbane-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-yhot-mthotham-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-yhot-mthotham-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-ykat-katoomba-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-ymaa-mabuiag-fs24" active="Activated"/>
+	<Package name="fs24-microsoft-landingchallenge-ymaa-mabuiag-fs24" active="Activated"/>
 	<Package name="fs20-microsoft-landingchallenge-yshl-shellharbour-fs24" active="Activated"/>
 	<Package name="fs24-microsoft-modellib-airport-generic" active="Activated"/>
 	<Package name="fs20-microsoft-modellib-airport-glider" active="Activated"/>
@@ -1740,6 +1188,7 @@
 	<Package name="fs20-microsoft-nordic-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-nordics2-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-oceania-point-of-interest" active="Activated"/>
+	<Package name="fs24-microsoft-oceania-point-of-interest" active="Activated"/>
 	<Package name="fs24-microsoft-passiveaircraft-beech-17" active="Activated"/>
 	<Package name="fs24-microsoft-passiveaircraft-c185" active="Activated"/>
 	<Package name="fs24-microsoft-passiveaircraft-c188" active="Activated"/>
@@ -1756,11 +1205,17 @@
 	<Package name="fs24-microsoft-pgg-uk" active="Activated"/>
 	<Package name="fs24-microsoft-pgg-us" active="Activated"/>
 	<Package name="fs20-microsoft-sa-east-point-of-interest" active="Activated"/>
+	<Package name="fs24-microsoft-scenery-abu-dhabi-rbr1" active="Activated"/>
+	<Package name="fs24-microsoft-scenery-budapest-rbr2" active="Activated"/>
 	<Package name="fs24-microsoft-scenery-gliders-worldwide-part1" active="Activated"/>
 	<Package name="fs24-microsoft-scenery-gliders-worldwide-part2" active="Activated"/>
 	<Package name="fs24-microsoft-scenery-gliders-worldwide-part3" active="Activated"/>
 	<Package name="fs24-microsoft-scenery-helipad-worldwide" active="Activated"/>
+	<Package name="fs24-microsoft-scenery-monument-valley-rbr6" active="Activated"/>
 	<Package name="fs20-microsoft-scenery-oilrig-worldwide" active="Activated"/>
+	<Package name="fs24-microsoft-scenery-rbr1-crowds-libs" active="Activated"/>
+	<Package name="fs24-microsoft-scenery-rio-rbr5" active="Activated"/>
+	<Package name="fs24-microsoft-scenery-spielberg-rbr3" active="Activated"/>
 	<Package name="fs24-microsoft-ships-car-carrier-1" active="Activated"/>
 	<Package name="fs24-microsoft-ships-container-1" active="Activated"/>
 	<Package name="fs24-microsoft-ships-container-2" active="Activated"/>
@@ -1840,6 +1295,7 @@
 	<Package name="fs24-microsoft-simobjects-animals-wolf" active="Activated"/>
 	<Package name="fs24-microsoft-simobjects-animals-zebra" active="Activated"/>
 	<Package name="fs20-microsoft-simobjects-vehicles" active="Activated"/>
+	<Package name="fs24-microsoft-simobjects-vehicles" active="Activated"/>
 	<Package name="fs24-microsoft-simobjects-winches" active="Activated"/>
 	<Package name="fs20-microsoft-uk-ireland-point-of-interest" active="Activated"/>
 	<Package name="fs20-microsoft-uk-point-of-interest" active="Activated"/>
@@ -1847,6 +1303,8 @@
 	<Package name="fs20-microsoft-usa-point-of-interest" active="Activated"/>
 	<Package name="fs24-microsoft-vertical-obstructions" active="Activated"/>
 	<Package name="fs20-microsoft-world-point-of-interest" active="Activated"/>
+	<Package name="communityfs24-mtscenerydesign-airport-zytx-shenyang" active="Activated"/>
+	<Package name="communityfs24-mtscenerydesign-shenyang-aerial" active="Activated"/>
 	<Package name="communityfs20-mvasims-airport-katl-atlanta" active="Activated"/>
 	<Package name="communityfs24-navigraph-nav-base" active="Activated"/>
 	<Package name="communityfs24-navigraph-nav-jepp" active="Activated"/>
@@ -1868,21 +1326,32 @@
 	<Package name="communityfs20-vegax94-airport-ltfj-istanbul" active="Activated"/>
 	<Package name="communityfs20-wasimcommander-module" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-b737-max-8" active="Activated"/>
+	<Package name="fs24-workingtitle-instruments-b737-max-8" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-b747-8i" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-b787-10" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-epic2" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-epic2-v2" active="Activated"/>
+	<Package name="fs24-workingtitle-instruments-epic2-v2" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-g1000" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-g1000-v2" active="Activated"/>
+	<Package name="fs24-workingtitle-instruments-g1000-v2" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-g3000" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-g3000-v2" active="Activated"/>
+	<Package name="fs24-workingtitle-instruments-g3000-v2" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-g3xtouch" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-g3xtouch-v2" active="Activated"/>
+	<Package name="fs24-workingtitle-instruments-g3xtouch-v2" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-garmin-gns" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-garmin-gns-v2" active="Activated"/>
+	<Package name="fs24-workingtitle-instruments-garmin-gns-v2" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-uns-1lw" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-uns-1lw-v2" active="Activated"/>
+	<Package name="fs24-workingtitle-instruments-uns-1lw-v2" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-wt21" active="Activated"/>
 	<Package name="fs20-workingtitle-instruments-wt21-v2" active="Activated"/>
+	<Package name="fs24-workingtitle-instruments-wt21-v2" active="Activated"/>
+	<Package name="communityfs20-wsac-changi-rsaf" active="Activated"/>
+	<Package name="communityfs20-wsss-changi" active="Activated"/>
+	<Package name="communityfs20-wsss_exs_zt_msfs" active="Activated"/>
 </Packages>
 
