@@ -9,9 +9,9 @@ Version 66
 	FullScreenResolution 1920 1080
 	PosX 0
 	PosY 0
-	AntiAliasing TAA
-	DLSSMode AUTO
-	Reflex OFF
+	AntiAliasing DLSS
+	DLSSMode PERFORMANCE
+	Reflex BOOST
 	FSRMode BALANCED
 	FrameGeneration FSRFG
 	NBFramesToGenerate 1
@@ -43,7 +43,7 @@ Version 66
 	IntelMessageBoxDisplayed 0
 	CurrentGPUDriverVersion 0.0.0
 	DoNotShowGpuDriverRequirementPopup 0
-	FrameLimiter 0
+	FrameLimiter 30
 }
 {Graphics
 	Version 2.1.0
@@ -53,16 +53,16 @@ Version 66
 		Quality 1
 	}
 	{Terrain
-		LoDFactor 1.350000
+		LoDFactor 1.250000
 		POMMaxDist 15.000000
 		POMSubsplitsMaxDist 5.000000
 	}
 	{OffscreenTerrainPreCaching
 		Enabled 1
-		Quality 2
+		Quality 3
 	}
 	{ObjectsLoD
-		LoDFactor 1.100000
+		LoDFactor 1.250000
 	}
 	{Shadows
 		MaxSliceCount 4
@@ -134,7 +134,7 @@ Version 66
 	{Characters
 		Quantity 1
 		Quality 0
-		Density 1
+		Variety 1
 	}
 	{Traffic
 		AircraftTrafficQuantity -1
@@ -151,6 +151,9 @@ Version 66
 	}
 	{GlassCockpitsRefreshRate
 		Quality 2
+	}
+	{Seatbelts
+		Enabled 1
 	}
 }
 {GraphicsVR
@@ -242,7 +245,7 @@ Version 66
 	{Characters
 		Quantity -1
 		Quality 0
-		Density 0
+		Variety 0
 	}
 	{Traffic
 		AircraftTrafficQuantity -1
@@ -259,6 +262,9 @@ Version 66
 	}
 	{GlassCockpitsRefreshRate
 		Quality 0
+	}
+	{Seatbelts
+		Enabled 0
 	}
 }
 InstalledPackagesPath "C:\Users\micro\AppData\Local\Packages\Microsoft.Limitless_8wekyb3d8bbwe\LocalCache\Packages"
