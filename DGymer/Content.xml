@@ -1363,6 +1363,8 @@
 	<Package name="communityfs20-headwindsim-aircraft-a330-900" active="Activated"/>
 	<Package name="communityfs20-hu277-airport-eddl-v143gsx" active="Activated"/>
 	<Package name="communityfs20-jeromelogue-airport-egac-belfast" active="Activated"/>
+	<Package name="communityfs20-kaze-airport-rjoa-hiroshima" active="Activated" priority="101"/>
+	<Package name="communityfs20-kaze-airport-rjoa-hiroshima-enhanced" active="Activated" priority="102"/>
 	<Package name="communityfs20-kdtw-detroit metro wayne" active="Activated"/>
 	<Package name="communityfs20-kfs_fbwa380_ana-ja382a" active="Activated"/>
 	<Package name="communityfs20-kritikv-airport-vaah-ahmedabad" active="Activated"/>
