@@ -10,7 +10,7 @@ Version 66
 	PosX 0
 	PosY 0
 	AntiAliasing DLSS
-	DLSSMode PERFORMANCE
+	DLSSMode DLAA
 	Reflex BOOST
 	FSRMode BALANCED
 	FrameGeneration FSRFG
