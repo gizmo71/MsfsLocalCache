@@ -11,6 +11,7 @@
 	<Package name="communityfs20-a32nx-livery-sas_new8k" active="Activated"/>
 	<Package name="communityfs20-a32nx-livery-sasconnect-ei-sir" active="Activated"/>
 	<Package name="communityfs20-aerial-ltfm-argaeus" active="Activated"/>
+	<Package name="communityfs24-aeromaia-airport-sbkp-viracopos-br" active="Activated"/>
 	<Package name="fs20-aerosoft-paderborn" active="UserDisabled"/>
 	<Package name="communityfs20-agn-fbw-a32nx-jst5a" active="Activated"/>
 	<Package name="communityfs24-airbus a330-200 thomas cook - konrad5987" active="Activated"/>
@@ -653,6 +654,7 @@
 	<Package name="communityfs20-fbw_a320neo_hbaye" active="Activated"/>
 	<Package name="communityfs20-fbw_a320neo_ja20ip" active="Activated"/>
 	<Package name="fs24-fcr-embedded" active="Activated"/>
+	<Package name="communityfs24-fd-airport-klgb-long-beach" active="Activated"/>
 	<Package name="communityfs24-fenix a320 iae - virgin australia - vh-vkq" active="Activated"/>
 	<Package name="communityfs20-flybywire a380 - qantas - vh-oqh" active="Activated"/>
 	<Package name="communityfs20-flybywire-a320neo-wizzair_pack" active="Activated"/>
@@ -682,6 +684,8 @@
 	<Package name="communityfs24-fnx-aircraft-320-dcd-igovtihz-8k" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-dcd-jjpja01jj-8k" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-gpowk" active="Activated"/>
+	<Package name="communityfs24-fnx-aircraft-320-iae-sl_wizz-ukraine_ur-wuc" active="Activated"/>
+	<Package name="communityfs24-fnx-aircraft-320-iae-wf_wizz-ukraine_ur-wub" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-liveries" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-liveries-sabena-4k" active="Activated"/>
 	<Package name="communityfs24-fnx-aircraft-320-sl-sjv-liverypack-4k" active="Activated"/>
@@ -786,6 +790,8 @@
 	<Package name="communityfs24-heli5432-egll-heathrow" active="Activated"/>
 	<Package name="communityfs24-hryr-kigali-intl" active="Activated"/>
 	<Package name="communityfs20-hu277-airport-eddl-v143gsx" active="Activated"/>
+	<Package name="communityfs24-inibuilds-airport-egll-heathrow" active="Activated"/>
+	<Package name="communityfs24-inibuilds-airport-othh-doha" active="Activated"/>
 	<Package name="communityfs20-jeromelogue-airport-egac-belfast" active="Activated"/>
 	<Package name="communityfs20-joujouproj-airport-gmme-rabat" active="Activated"/>
 	<Package name="communityfs20-kaze-airport-rjoa-hiroshima" active="Activated" priority="101"/>
@@ -835,6 +841,7 @@
 	<Package name="communityfs20-lvfr-airbus-a321-neo_vkg" active="Activated"/>
 	<Package name="communityfs20-lvfr-airbus-a321-neo_vt-tvf" active="Activated"/>
 	<Package name="communityfs20-lvfr-horizonsim-airbus-a321-neo" active="Activated"/>
+	<Package name="communityfs24-methone-airport-lsgg-geneva" active="Activated"/>
 	<Package name="communityfs24-mgc-kmsp-minneapolisstpaulintl" active="Activated"/>
 	<Package name="fs20-microsoft-40th-anniversary-point-of-interest" active="Activated"/>
 	<Package name="communityfs24-microsoft-a321-anz" active="Activated"/>
@@ -1335,10 +1342,12 @@
 	<Package name="communityfs20-raimbotrax_a380_british_airways_gxlel_dirty" active="Activated"/>
 	<Package name="communityfs20-rocket_a380_lufthansa_daiml4k" active="Activated"/>
 	<Package name="communityfs20-rs_designs-a339-lion.pk-lei" active="Activated"/>
+	<Package name="communityfs20-rwyscenery-airport-lrop-bucharest" active="Activated"/>
 	<Package name="communityfs20-sayintentions-efb" active="Activated"/>
 	<Package name="communityfs20-sayintentions-fly-in-library" active="Activated"/>
 	<Package name="communityfs20-sayintentions-simobjects-optional" active="Activated"/>
 	<Package name="communityfs20-sayintentions-vr-toolbar-plugin" active="Activated"/>
+	<Package name="communityfs24-sbgr_pauloed148_pauloeduardo" active="Activated"/>
 	<Package name="communityfs20-sdr-pack" active="Activated"/>
 	<Package name="communityfs24-stalex-airport-lfpg-charlesdegaulle" active="Activated"/>
 	<Package name="communityfs24-stalexcorp-lfpg-fixes" active="Activated"/>
