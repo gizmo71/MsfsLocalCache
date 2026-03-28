@@ -715,6 +715,7 @@
 	<Package name="fs24-fs-base-coverage-map-city11-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-city12-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-city13-tin" active="Activated"/>
+	<Package name="fs24-fs-base-coverage-map-city14-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-east-europe-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-france-tin" active="Activated"/>
 	<Package name="fs24-fs-base-coverage-map-germany-tin" active="Activated"/>
@@ -879,6 +880,13 @@
 	<Package name="fs24-microsoft-aircraft-a400m" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-aircrane" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-archer" active="Activated"/>
+	<Package name="fs20-microsoft-aircraft-atr" active="Activated"/>
+	<Package name="fs20-microsoft-aircraft-atr-42-600-livery-air-saint-pierre" active="UserDisabled"/>
+	<Package name="fs20-microsoft-aircraft-atr-42-600-livery-silver-airways" active="UserDisabled"/>
+	<Package name="fs20-microsoft-aircraft-atr-72-600-livery-air-tahiti-01" active="UserDisabled"/>
+	<Package name="fs20-microsoft-aircraft-atr-72-600-livery-air-tahiti-02" active="UserDisabled"/>
+	<Package name="fs20-microsoft-aircraft-atr-72-600-livery-air-tahiti-03" active="UserDisabled"/>
+	<Package name="fs20-microsoft-aircraft-atr-72-600-livery-silver-airways" active="UserDisabled"/>
 	<Package name="fs24-microsoft-aircraft-bell407" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-belugaxl" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-boom-xb1" active="Activated"/>
@@ -1336,6 +1344,7 @@
 	<Package name="communityfs20-mvasims-airport-katl-atlanta" active="Activated"/>
 	<Package name="communityfs24-navigraph-nav-base" active="Activated"/>
 	<Package name="communityfs24-navigraph-nav-jepp" active="Activated"/>
+	<Package name="communityfs20-nzch-christchurch-intl" active="Activated"/>
 	<Package name="communityfs20-phoenixscenery-airport-zutf-chengdu" active="Activated"/>
 	<Package name="communityfs20-pparker-airport-vogo-dabolim" active="Activated"/>
 	<Package name="communityfs20-rahulc-airport-veay-ayodhya" active="Activated"/>
