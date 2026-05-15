@@ -706,6 +706,7 @@
 	<Package name="communityfs20-flybywire-aircraft-a380-ana_ja383a_4k" active="Activated"/>
 	<Package name="communityfs20-flybywire-aircraft-a380-hfm-9hglobl-4k" active="Activated"/>
 	<Package name="communityfs20-flybywire-externaltools-simbridge" active="Activated"/>
+	<Package name="communityfs20-flybywire_a320_neo_air_india_express" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_air india vt-rtn_vekxj" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_condor" active="Activated"/>
 	<Package name="communityfs20-flybywire_a320neo_dlh pack 4k" active="Activated"/>
