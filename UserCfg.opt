@@ -86,7 +86,7 @@ Version 66
 	}
 	{VolumetricClouds
 		Enabled 1
-		Quality 2
+		Quality 3
 	}
 	{VolumetricLights
 		Enabled 1
@@ -123,7 +123,7 @@ Version 66
 		Quality 0
 	}
 	{Buildings
-		Quality 0
+		Quality 1
 	}
 	{Procedural
 		TreesQuality 0
@@ -137,12 +137,12 @@ Version 66
 		Variety 1
 	}
 	{Traffic
-		AircraftTrafficQuantity -1
-		AircraftTrafficVariety 1
+		AircraftTrafficQuantity 3
+		AircraftTrafficVariety 3
 		AirportsServicesQuantity 1
 		AirportsServicesVariety 1
 		ParkedAircraftQuantity -1
-		ParkedAircraftVariety 1
+		ParkedAircraftVariety 2
 		RoadQuality 1
 		SeaQuality 1
 	}
@@ -154,6 +154,9 @@ Version 66
 	}
 	{Seatbelts
 		Enabled 1
+	}
+	{Particles
+		Quality 0
 	}
 }
 {GraphicsVR
@@ -265,6 +268,9 @@ Version 66
 	}
 	{Seatbelts
 		Enabled 0
+	}
+	{Particles
+		Quality 0
 	}
 }
 InstalledPackagesPath "C:\Users\micro\AppData\Local\Packages\Microsoft.Limitless_8wekyb3d8bbwe\LocalCache\Packages"
