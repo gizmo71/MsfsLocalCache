@@ -86,7 +86,7 @@ Version 66
 	}
 	{VolumetricClouds
 		Enabled 1
-		Quality 3
+		Quality 2
 	}
 	{VolumetricLights
 		Enabled 1
