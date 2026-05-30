@@ -950,7 +950,8 @@
 	<Package name="fs24-microsoft-aircraft-a400m" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-aircrane" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-archer" active="Activated"/>
-	<Package name="fs20-microsoft-aircraft-atr" active="Activated"/>
+	<Package name="fs20-microsoft-aircraft-atr" active="UserDisabled"/>
+	<Package name="fs24-microsoft-aircraft-atr" active="Activated"/>
 	<Package name="fs20-microsoft-aircraft-atr-42-600-livery-air-saint-pierre" active="UserDisabled"/>
 	<Package name="fs20-microsoft-aircraft-atr-42-600-livery-silver-airways" active="UserDisabled"/>
 	<Package name="fs20-microsoft-aircraft-atr-72-600-livery-air-tahiti-01" active="UserDisabled"/>
