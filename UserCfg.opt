@@ -123,13 +123,13 @@ Version 66
 		Quality 0
 	}
 	{Buildings
-		Quality 1
+		Quality 0
 	}
 	{Procedural
 		TreesQuality 0
 		PlantsQuality 0
-		RocksQuality 0
-		GrassQuality 0
+		RocksQuality -1
+		GrassQuality -1
 	}
 	{Characters
 		Quantity 1
@@ -142,7 +142,7 @@ Version 66
 		AirportsServicesQuantity 1
 		AirportsServicesVariety 1
 		ParkedAircraftQuantity -1
-		ParkedAircraftVariety 2
+		ParkedAircraftVariety 3
 		RoadQuality 1
 		SeaQuality 1
 	}
