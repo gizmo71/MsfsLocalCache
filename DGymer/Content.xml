@@ -1,4 +1,6 @@
 <Packages>
+	<Package name="communityfs20-00_secu-mariscal-lamar-afde" active="Activated"/>
+	<Package name="communityfs20-01_secu-mariscal-lamar-afde" active="Activated"/>
 	<Package name="communityfs20-3sc0b4r-airport-wibb-pekanbaru" active="Activated" priority="101"/>
 	<Package name="communityfs20-a320-fbw-livery-cca-new_qaxeq" active="Activated"/>
 	<Package name="communityfs20-a320-fbw-livery-csz" active="Activated"/>
@@ -10,6 +12,8 @@
 	<Package name="communityfs24-a321lr neo - easyjet uk pack - valexyo hues" active="Activated"/>
 	<Package name="communityfs20-a32nx-livery-sas_new8k" active="Activated"/>
 	<Package name="communityfs20-a32nx-livery-sasconnect-ei-sir" active="Activated"/>
+	<Package name="communityfs24-a330-200 (rr) azul pr-ain" active="Activated"/>
+	<Package name="communityfs24-a330-300p2f(ge) saudia cargo(asl airlines) ei-lkd" active="Activated"/>
 	<Package name="communityfs20-aerial-ltfm-argaeus" active="Activated"/>
 	<Package name="communityfs24-aeromaia-airport-sbkp-viracopos-br" active="Activated"/>
 	<Package name="fs20-aerosoft-paderborn" active="UserDisabled"/>
@@ -673,6 +677,7 @@
 	<Package name="communityfs20-custombuildssim-airport-letl-teruel" active="Activated"/>
 	<Package name="communityfs20-davecoop-egnv-teeside06" active="Activated"/>
 	<Package name="communityfs20-despamods-kslc-custom" active="Activated"/>
+	<Package name="communityfs24-diap-felix-houphouet-boigny" active="Activated"/>
 	<Package name="communityfs20-doha-airport-scenery" active="Activated"/>
 	<Package name="communityfs20-domtom69-lfll-saintexupery-twr" active="Activated"/>
 	<Package name="communityfs20-eddh-hamburg" active="Activated"/>
@@ -819,13 +824,16 @@
 	<Package name="fs24-fs-devmode-streamed" active="Activated"/>
 	<Package name="fs24-fs-discovery-asobo" active="Activated"/>
 	<Package name="fs24-fs-freeflight-asobo" active="Activated"/>
+	<Package name="communityfs20-fs24-atc-window-replies-resize-fix-1.1" active="Activated"/>
 	<Package name="communityfs20-fsdreamteam-gsx-pro" active="Activated"/>
 	<Package name="communityfs20-fsdreamteam-gsx-world-of-jetways" active="Activated"/>
 	<Package name="communityfs20-fsltl-traffic-base" active="Activated"/>
+	<Package name="communityfs20-fsltl-traffic-injector" active="Activated"/>
 	<Package name="communityfs20-fsuipc-lvar-module" active="Activated"/>
 	<Package name="communityfs20-fzaa-fih-ver2025" active="Activated"/>
 	<Package name="communityfs20-gakki-airport-zlic-yinchuanhedong" active="Activated"/>
 	<Package name="communityfs20-gakki-taiyuanwushu" active="Activated"/>
+	<Package name="communityfs24-gate17-airport-eddn-nuremberg" active="Activated"/>
 	<Package name="communityfs20-gatwick" active="Activated"/>
 	<Package name="communityfs20-gcts-reina-sofia" active="Activated"/>
 	<Package name="communityfs20-gobby-egmc-southend" active="Activated"/>
@@ -908,6 +916,7 @@
 	<Package name="communityfs24-microsoft-a321-sunclass" active="Activated"/>
 	<Package name="communityfs24-microsoft-a330-300-b-8865" active="Activated"/>
 	<Package name="communityfs24-microsoft-a330-300-qtr-aep" active="Activated"/>
+	<Package name="communityfs24-microsoft-a330-aer-lingus-ei-daa" active="Activated"/>
 	<Package name="communityfs24-microsoft-a330_sabena" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a10c" active="Activated"/>
 	<Package name="fs24-microsoft-aircraft-a310-300" active="Activated"/>
@@ -927,7 +936,9 @@
 	<Package name="communityfs24-microsoft-aircraft-a330-200-klmaoa" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-200-mmu pack" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-200-qtr-a7-acm" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-200-raf pack" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-200-vir-mik" active="Activated"/>
+	<Package name="communityfs24-microsoft-aircraft-a330-200-voz-vh-xfg" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-300-cca-b-6513" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-300-delta-823" active="Activated"/>
 	<Package name="communityfs24-microsoft-aircraft-a330-300-einnc-pack" active="Activated"/>
@@ -1422,6 +1433,7 @@
 	<Package name="communityfs24-rafz-livery-a320-iae-tcw-ootcr" active="Activated"/>
 	<Package name="communityfs20-rahulc-airport-veay-ayodhya" active="Activated"/>
 	<Package name="communityfs20-raimbotrax_a380_british_airways_gxlel_dirty" active="Activated"/>
+	<Package name="communityfs24-raimbotrax_microsoft-a330-airfrance_f-gzcg_2023" active="Activated"/>
 	<Package name="communityfs20-rocket_a380_lufthansa_daiml4k" active="Activated"/>
 	<Package name="communityfs20-rs_designs-a339-lion.pk-lei" active="Activated"/>
 	<Package name="communityfs20-rwyscenery-airport-lrop-bucharest" active="Activated"/>
@@ -1431,6 +1443,7 @@
 	<Package name="communityfs20-sayintentions-vr-toolbar-plugin" active="Activated"/>
 	<Package name="communityfs24-sbgr_pauloed148_pauloeduardo" active="Activated"/>
 	<Package name="communityfs20-sdr-pack" active="Activated"/>
+	<Package name="communityfs24-sediciasdequeiroz-airport-sbsg-aita-governador-alu-zio-alves" active="Activated"/>
 	<Package name="communityfs20-skysim-at76-wingsair_pkwhp" active="Activated"/>
 	<Package name="communityfs24-stalex-airport-lfpg-charlesdegaulle" active="Activated"/>
 	<Package name="communityfs24-stalexcorp-lfpg-fixes" active="Activated"/>
@@ -1476,5 +1489,6 @@
 	<Package name="communityfs20-wsss-changi" active="Activated"/>
 	<Package name="communityfs20-wsss_exs_zt_msfs" active="Activated"/>
 	<Package name="communityfs24-xaxliveries-a333rr-batik-lfc" active="Activated"/>
+	<Package name="communityfs20-zzz-oryxstudio-fbw-a380-1k" active="Activated"/>
 </Packages>
 
